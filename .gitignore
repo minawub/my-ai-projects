@@ -1,2 +1,12 @@
 .ipynb_checkpoints/
 __pycache__/
+data/
+models/
+outputs/
+*.tsv
+*.csv
+
+.venv/
+__pycache__/
+*.tsv
+*.csv
